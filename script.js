@@ -28,7 +28,7 @@ setTimeout(() => {
                           setTimeout(() => {
                             document.querySelector(
                               ".container"
-                            ).innerHTML = `<h1>Happy DIwali</h1>`;
+                            ).innerHTML = `<h1>Happy Independence Day</h1>`;
                           }, 1000);
                         }, 1000);
                       }, 1000);
