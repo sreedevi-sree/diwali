@@ -23,9 +23,6 @@ setTimeout(() => {
                         document.querySelector(".container").innerHTML =
                           "<h1>1</h1>";
                         setTimeout(() => {
-                          document.querySelector(".container").innerHTML =
-                            "<h1>0</h1>";
-                          setTimeout(() => {
                             document.querySelector(
                               ".container"
                             ).innerHTML = `<h1>Happy Independence Day</h1>`;
